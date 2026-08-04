@@ -487,5 +487,11 @@
 		"filename": "anbesa_bank_mark",
 		"url": "https://anbesabank.com/",
 		"category": ["Banking", "Financial Services"]
+	},
+	{
+		"title": "Anbesa Bank",
+		"filename": "anbesa_bank",
+		"url": "https://anbesabank.com/",
+		"category": ["Banking", "Financial Services"]
 	}
 ]
