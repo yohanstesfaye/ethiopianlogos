@@ -481,5 +481,11 @@
 		"filename": "ethio_post",
 		"url": "https://www.ethio.post",
 		"category": ["Postal Service", "Marketplace"]
+	},
+	{
+		"title": "Anbesa Bank",
+		"filename": "anbesa_bank_mark",
+		"url": "https://anbesabank.com/",
+		"category": ["Banking", "Financial Services"]
 	}
 ]
