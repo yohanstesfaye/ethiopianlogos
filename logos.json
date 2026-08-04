@@ -531,5 +531,12 @@
 		"url": "http://www.ethiopianairlines.com/",
 		"category": ["Transportation"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Fayda - National ID",
+		"filename": "national_id",
+		"url": "http://id.gov.et/",
+		"category": ["Government Agency"],
+		"Hint": "Logo Mark"
 	}
 ]
