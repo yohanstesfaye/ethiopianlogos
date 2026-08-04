@@ -503,5 +503,12 @@
 		"url": "https://anbesabank.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": ""
+	},
+	{
+		"title": "Nileview",
+		"filename": "nileview",
+		"url": "https://nileviewhotels.com/",
+		"category": ["Hotel", "Hospitality"],
+		"Hint": ""
 	}
 ]
