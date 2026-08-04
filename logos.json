@@ -510,5 +510,12 @@
 		"url": "https://nileviewhotels.com/",
 		"category": ["Hotel", "Hospitality"],
 		"Hint": ""
+	},
+	{
+		"title": "Abay Bank",
+		"filename": "abay_bank",
+		"url": "http://www.abaybanksc.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
 	}
 ]
