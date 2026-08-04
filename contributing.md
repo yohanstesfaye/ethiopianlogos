@@ -96,6 +96,7 @@ not
 * NGO
 * Online Food Delivery
 * Petroleum and Gas
+* Postal Service
 * Product Design
 * Publishing
 * Real Estate
