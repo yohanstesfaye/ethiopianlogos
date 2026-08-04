@@ -480,24 +480,28 @@
 		"title": "Ethio Post",
 		"filename": "ethio_post",
 		"url": "https://www.ethio.post",
-		"category": ["Postal Service", "Marketplace"]
+		"category": ["Postal Service", "Marketplace"],
+		"Hint": ""
 	},
 	{
 		"title": "Anbesa Bank",
 		"filename": "anbesa_bank",
 		"url": "https://anbesabank.com/",
-		"category": ["Banking", "Financial Services"]
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
 	},
 	{
 		"title": "Anbesa Bank",
 		"filename": "anbesa_bank_mark",
 		"url": "https://anbesabank.com/",
-		"category": ["Banking", "Financial Services"]
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
 	},
 	{
 		"title": "Anbesa Bank",
 		"filename": "anbesa_bank_mark_2",
 		"url": "https://anbesabank.com/",
-		"category": ["Banking", "Financial Services"]
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
 	}
 ]
