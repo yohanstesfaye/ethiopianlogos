@@ -538,5 +538,19 @@
 		"url": "http://id.gov.et/",
 		"category": ["Government Agency"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Wogagen Bank",
+		"filename": "wogagen_bank",
+		"url": "https://wegagen.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Wogagen Bank",
+		"filename": "wogagen_bank_mark",
+		"url": "https://wegagen.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
