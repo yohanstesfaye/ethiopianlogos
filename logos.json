@@ -552,5 +552,19 @@
 		"url": "https://wegagen.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ahadu Bank",
+		"filename": "ahadu_bank",
+		"url": "https://ahadubank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Ahadu Bank",
+		"filename": "ahadu_bank_mark",
+		"url": "https://ahadubank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
