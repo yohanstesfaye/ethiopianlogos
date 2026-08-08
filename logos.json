@@ -566,5 +566,19 @@
 		"url": "https://ahadubank.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Safaricom",
+		"filename": "safaricom",
+		"url": "https://safaricom.et/",
+		"category": ["Telecommunincation"],
+		"Hint": ""
+	},
+	{
+		"title": "Safaricom",
+		"filename": "safaricom_mark",
+		"url": "https://safaricom.et/",
+		"category": ["Telecommunincation"],
+		"Hint": "Logo Mark"
 	}
 ]
