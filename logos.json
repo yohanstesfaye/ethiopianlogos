@@ -643,5 +643,19 @@
 		"url": "https://oromiabank.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Siinqee Bank",
+		"filename": "siinqee_bank",
+		"url": "https://siinqeebank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Siinqee Bank",
+		"filename": "siinqee_bank_mark",
+		"url": "https://siinqeebank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
