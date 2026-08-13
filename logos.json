@@ -220,7 +220,7 @@
 	{
 		"title": "Nyala Motors",
 		"filename": "nyala_motors",
-		"url": "https://www.nyalamotors.com/en/",
+		"url": "https://www.nyalamotors.com/",
 		"category": ["Automotive Distributor"],
 		"Hint": ""
 	},
@@ -228,14 +228,14 @@
 	{
 		"title": "Nyala Motors",
 		"filename": "nyala_motors_2",
-		"url": "https://www.nyalamotors.com/en/",
+		"url": "https://www.nyalamotors.com/",
 		"category": ["Automotive Distributor"],
 		"Hint": ""
 	},
 	{
 		"title": "Nyala Motors",
 		"filename": "nyala_motors_mark",
-		"url": "https://www.nyalamotors.com/en/",
+		"url": "https://www.nyalamotors.com/",
 		"category": ["Automotive Distributor"],
 		"Hint": "Logo Mark"
 	},
@@ -700,5 +700,19 @@
 		"url": "https://eic-et.com/",
 		"category": ["Government", "Insurance"],
 		"Hint": ""
+	},
+	{
+		"title": "Zamzam Bank",
+		"filename": "zamzam_bank",
+		"url": "https://zamzambank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Zamzam Bank",
+		"filename": "zamzam_bank_mark",
+		"url": "https://zamzambank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
