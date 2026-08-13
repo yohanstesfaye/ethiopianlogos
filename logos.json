@@ -117,7 +117,14 @@
 		"filename": "ethio_telecom",
 		"url": "https://www.ethiotelecom.et/",
 		"category": ["Telecommunincation"],
-		"Hint": "Vector Logo not available"
+		"Hint": ""
+	},
+	{
+		"title": "Ethio Telecom",
+		"filename": "ethio_telecom_mark",
+		"url": "https://www.ethiotelecom.et/",
+		"category": ["Telecommunincation"],
+		"Hint": "Logo Mark"
 	},
 	{
 		"title": "Ethiopian Agricultural Transformation Agency",
