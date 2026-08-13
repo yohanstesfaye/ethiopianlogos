@@ -194,7 +194,14 @@
 		"filename": "moenco",
 		"url": "https://moencoethiopia.com/",
 		"category": ["Automotive Distributor", "Retailer"],
-		"Hint": "Vector Logo not available"
+		"Hint": ""
+	},
+	{
+		"title": "Moenco",
+		"filename": "moenco_mark",
+		"url": "https://moencoethiopia.com/",
+		"category": ["Automotive Distributor", "Retailer"],
+		"Hint": "Logo Mark"
 	},
 	{
 		"title": "National Bank of Ethiopia",
