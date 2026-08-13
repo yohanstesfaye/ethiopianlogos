@@ -669,14 +669,21 @@
 		"title": "Lakipay",
 		"filename": "lakipay",
 		"url": "https://lakipay.co",
-		"category": ["Software", "Financial Services"],
+		"category": ["Financial Services"],
 		"Hint": ""
 	},
 	{
 		"title": "Lakipay",
 		"filename": "lakipay_mark",
 		"url": "https://lakipay.co",
-		"category": ["Software", "Financial Services"],
+		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ethiopian Insurance Corporation",
+		"filename": "ethiopian_insurance_corporation",
+		"url": "https://eic-et.com/",
+		"category": ["Government", "Insurance"],
+		"Hint": ""
 	}
 ]
