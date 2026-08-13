@@ -629,5 +629,19 @@
 		"url": "https://bunnabanksc.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Oromia Bank",
+		"filename": "oromia_bank",
+		"url": "https://oromiabank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Oromia Bank",
+		"filename": "oromia_bank_mark",
+		"url": "https://oromiabank.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
