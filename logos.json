@@ -615,5 +615,19 @@
 		"url": "https://www.scholarxiv.com/",
 		"category": ["Software", "AI"],
 		"Hint": ""
+	},
+	{
+		"title": "Bunna Bank",
+		"filename": "bunna_bank",
+		"url": "https://bunnabanksc.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Bunna Bank",
+		"filename": "bunna_bank_mark",
+		"url": "https://bunnabanksc.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
