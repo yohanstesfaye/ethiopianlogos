@@ -657,5 +657,19 @@
 		"url": "https://siinqeebank.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "EthSwitch",
+		"filename": "ethswitch",
+		"url": "https://ethswitch.com/",
+		"category": ["Software", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "EthSwitch",
+		"filename": "ethswitch_mark",
+		"url": "https://ethswitch.com/",
+		"category": ["Software", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
