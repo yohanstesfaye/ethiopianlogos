@@ -64,6 +64,7 @@ not
 ### Categories
 ```
 * Advertising
+* AI
 * Banking
 * beverage
 * Blog
