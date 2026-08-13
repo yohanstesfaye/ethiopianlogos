@@ -594,5 +594,12 @@
 		"url": "https://m-pesa.safaricom.et/",
 		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "ScholarXVI",
+		"filename": "scholarxvi",
+		"url": "https://www.scholarxiv.com/",
+		"category": ["Software", "AI"],
+		"Hint": ""
 	}
 ]
