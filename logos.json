@@ -433,7 +433,14 @@
 		"filename": "habesha_beer",
 		"url": "https://www.habeshabreweries.com/#",
 		"category": ["Beverage"],
-		"Hint": "Vector Logo not available"
+		"Hint": ""
+	},
+	{
+		"title": "Habesha Beer",
+		"filename": "habesha_beer_mark",
+		"url": "https://www.habeshabreweries.com/#",
+		"category": ["Beverage"],
+		"Hint": "Logo Mark"
 	},
 	{
 		"title": "Ethiopian Air Force",
