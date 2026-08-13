@@ -222,7 +222,22 @@
 		"filename": "nyala_motors",
 		"url": "https://www.nyalamotors.com/en/",
 		"category": ["Automotive Distributor"],
-		"Hint": "Vector Logo not available"
+		"Hint": ""
+	},
+
+	{
+		"title": "Nyala Motors",
+		"filename": "nyala_motors_2",
+		"url": "https://www.nyalamotors.com/en/",
+		"category": ["Automotive Distributor"],
+		"Hint": ""
+	},
+	{
+		"title": "Nyala Motors",
+		"filename": "nyala_motors_mark",
+		"url": "https://www.nyalamotors.com/en/",
+		"category": ["Automotive Distributor"],
+		"Hint": "Logo Mark"
 	},
 	{
 		"title": "Qinash",
