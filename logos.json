@@ -580,5 +580,19 @@
 		"url": "https://safaricom.et/",
 		"category": ["Telecommunincation"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "M-Pesa",
+		"filename": "mpesa",
+		"url": "https://m-pesa.safaricom.et",
+		"category": ["Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "M-Pesa",
+		"filename": "mpesa_mark",
+		"url": "https://m-pesa.safaricom.et/",
+		"category": ["Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
