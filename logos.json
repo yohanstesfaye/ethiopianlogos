@@ -664,5 +664,19 @@
 		"url": "https://ethswitch.com/",
 		"category": ["Software", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Lakipay",
+		"filename": "lakipay",
+		"url": "https://lakipay.co",
+		"category": ["Software", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Lakipay",
+		"filename": "lakipay_mark",
+		"url": "https://lakipay.co",
+		"category": ["Software", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
