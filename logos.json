@@ -735,5 +735,19 @@
 		"url": "https://myezremit.com/",
 		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Addis AI",
+		"filename": "addis_ai",
+		"url": "https://addisassistant.com/",
+		"category": ["AI"],
+		"Hint": ""
+	},
+	{
+		"title": "Addis AI",
+		"filename": "addis_ai_mark",
+		"url": "https://addisassistant.com/",
+		"category": ["AI"],
+		"Hint": "Logo Mark"
 	}
 ]
