@@ -805,5 +805,19 @@
 		"url": "https://fabinvestbank.com/",
 		"category": ["Investment Bank"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ethio Fidelity Securities",
+		"filename": "ethio_fidelity_securities",
+		"url": "https://ethiofidelity.com/",
+		"category": ["Investment Bank"],
+		"Hint": ""
+	},
+	{
+		"title": "Ethio Fidelity Securities",
+		"filename": "ethio_fidelity_securities_mark",
+		"url": "https://ethiofidelity.com/",
+		"category": ["Investment Bank"],
+		"Hint": "Logo Mark"
 	}
 ]
