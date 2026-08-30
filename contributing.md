@@ -3,9 +3,11 @@
 There are two ways to contribute to this project:
 
 ## Using the form
+
 You can upload your logos directly to the online form here: [Google Forms](https://docs.google.com/forms/d/12cavlW_X-2gZqAgtRFEG3rTlq8m7eqUXT11WLZErY-Q/edit?ts=6114e461). This usually takes about 72 hours to be reviewed and merged.
 
 ## Sending in a pull request
+
 Another way to contribute is to directly send in a pull request. Here are some guidelines for this:
 
 1. Ensure your logos have been properly optimised with tools like:
@@ -15,7 +17,8 @@ Another way to contribute is to directly send in a pull request. Here are some g
 2. Add a folder to **logos** named after your company. In this folder, put the svg and png versions of your logo. The files should have the same name as the folder and should be lowercase. If your company name has multiple words, kindly separate them with an underscore.
 
 ### Folder Structure
-```
+
+``` path
 company_name
 | company_name.png
 | company_name.svg
@@ -24,7 +27,8 @@ company_name
 3. In **[logos.json](https://github.com/Chapa-Et/ethiopianlogos/blob/main/logos.json)**, add a `JSON` entry for your company
 
 ### JSON Object
-```
+
+``` json
 {
   "title": "Company Name",
   "filename": "company_name",
@@ -32,8 +36,10 @@ company_name
   "category": ["Category"]
 }
 ```
-**Example**
-```
+
+#### **Example**
+
+``` json
 {
   "title": "Zemen Bank",
   "filename": "zemen_bank",
@@ -53,7 +59,8 @@ If you do so, kindly edit this file; adding the newly used category (**[/contrib
 
 5. Make sure your company URL has the `http://` or `https://` prefix or it will be rendered as invalid (this is to prevent some quirks in link redirection).
 **NB:** By default, all empty or invalid urls will be linked to google search rather than the official website.
-```
+
+``` json
 "url": "https://chapa.co" or
 "url": "https://www.chapa.co"
 not
@@ -62,7 +69,8 @@ not
 ```
 
 ### Categories
-```
+
+``` text
 * Advertising
 * AI
 * Banking
@@ -87,7 +95,7 @@ not
 * Hotel
 * ICT
 * Incubator
-* Investment Banking
+* Investment Bank
 * ISP
 * Local Search
 * Marketplace
