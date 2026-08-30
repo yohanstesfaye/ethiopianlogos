@@ -87,6 +87,7 @@ not
 * Hotel
 * ICT
 * Incubator
+* Investment Banking
 * ISP
 * Local Search
 * Marketplace
