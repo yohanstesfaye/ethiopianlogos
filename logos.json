@@ -764,7 +764,6 @@
 		"category": ["Government Agency"],
 		"Hint": "Logo Mark"
 	},
-
 	{
 		"title": "Gadaa Bank",
 		"filename": "gadaa_bank",
@@ -777,6 +776,20 @@
 		"filename": "gadaa_bank_mark",
 		"url": "https://gadaabank.com.et/",
 		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Wegagen Capital",
+		"filename": "wegagen_capital",
+		"url": "https://wegagencapital.com.et/",
+		"category": ["Investment Banking"],
+		"Hint": ""
+	},
+	{
+		"title": "Wegagen Capital",
+		"filename": "wegagen_capital_mark",
+		"url": "https://wegagencapital.com.et/",
+		"category": ["Investment Banking"],
 		"Hint": "Logo Mark"
 	}
 ]
