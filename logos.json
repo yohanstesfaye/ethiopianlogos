@@ -763,5 +763,20 @@
 		"url": "https://esx.et",
 		"category": ["Government Agency"],
 		"Hint": "Logo Mark"
+	},
+
+	{
+		"title": "Gadaa Bank",
+		"filename": "gadaa_bank",
+		"url": "https://gadaabank.com.et/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Gadaa Bank",
+		"filename": "gadaa_bank_mark",
+		"url": "https://gadaabank.com.et/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
