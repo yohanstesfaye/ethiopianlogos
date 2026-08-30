@@ -749,5 +749,19 @@
 		"url": "https://addisassistant.com/",
 		"category": ["AI"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "ESX - Ethiopian Securities Exchange",
+		"filename": "ethiopian_securities_exchange",
+		"url": "https://esx.et",
+		"category": ["Government Agency"],
+		"Hint": ""
+	},
+	{
+		"title": "ESX - Ethiopian Securities Exchange",
+		"filename": "ethiopian_securities_exchange_mark",
+		"url": "https://esx.et",
+		"category": ["Government Agency"],
+		"Hint": "Logo Mark"
 	}
 ]
