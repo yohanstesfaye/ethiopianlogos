@@ -711,15 +711,29 @@
 	{
 		"title": "Zamzam Bank",
 		"filename": "zamzam_bank",
-		"url": "https://zamzambank.com/",
+		"url": "https://myezremit.com",
 		"category": ["Banking", "Financial Services"],
 		"Hint": ""
 	},
 	{
 		"title": "Zamzam Bank",
 		"filename": "zamzam_bank_mark",
-		"url": "https://zamzambank.com/",
+		"url": "https://myezremit.com",
 		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "EZ Remit",
+		"filename": "ezremit",
+		"url": "https://myezremit.com/",
+		"category": ["Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "EZ Remit",
+		"filename": "ezremit_mark",
+		"url": "https://myezremit.com/",
+		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
 	}
 ]
