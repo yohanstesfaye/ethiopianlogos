@@ -791,5 +791,19 @@
 		"url": "https://wegagencapital.com.et/",
 		"category": ["Investment Bank"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "First Addis Investment Bank",
+		"filename": "first_addis_investment_bank",
+		"url": "https://fabinvestbank.com/",
+		"category": ["Investment Bank"],
+		"Hint": ""
+	},
+	{
+		"title": "First Addis Investment Bank",
+		"filename": "first_addis_investment_bank_mark",
+		"url": "https://fabinvestbank.com/",
+		"category": ["Investment Bank"],
+		"Hint": "Logo Mark"
 	}
 ]
