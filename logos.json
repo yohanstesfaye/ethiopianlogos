@@ -819,5 +819,19 @@
 		"url": "https://ethiofidelity.com/",
 		"category": ["Investment Bank"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Awash Capital",
+		"filename": "awash_capital",
+		"url": "https://awashcapital.com/",
+		"category": ["Investment Bank"],
+		"Hint": ""
+	},
+	{
+		"title": "Awash Capital",
+		"filename": "awash_capital_mark",
+		"url": "https://awashcapital.com/",
+		"category": ["Investment Bank"],
+		"Hint": "Logo Mark"
 	}
 ]
