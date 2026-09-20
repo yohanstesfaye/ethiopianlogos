@@ -868,5 +868,19 @@
 		"url": "https://dashenbreweries.com/",
 		"category": ["Beverage"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Safaricom Ethiopia Foundation",
+		"filename": "safaricom_foundation",
+		"url": "https://foundation.safaricom.et/",
+		"category": ["NGO"],
+		"Hint": ""
+	},
+	{
+		"title": "Safaricom Ethiopia Foundation",
+		"filename": "safaricom_foundation_mark",
+		"url": "https://foundation.safaricom.et/",
+		"category": ["NGO"],
+		"Hint": "Logo Mark"
 	}
 ]
