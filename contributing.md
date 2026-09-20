@@ -72,9 +72,10 @@ not
 
 ``` text
 * Advertising
+* Academy
 * AI
 * Banking
-* beverage
+* Beverage
 * Blog
 * Branding
 * Business Ratings and Reviews
@@ -82,6 +83,7 @@ not
 * Construction
 * Coworking Space
 * Defense
+* Delivery Service
 * Domain Registrar
 * Ecommerce
 * Entertainment

@@ -833,5 +833,19 @@
 		"url": "https://awashcapital.com/",
 		"category": ["Investment Bank"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "BGI Ethiopia",
+		"filename": "bgi_ethiopia",
+		"url": "https://www.bgiethiopia.com/",
+		"category": ["Beverage"],
+		"Hint": ""
+	},
+	{
+		"title": "BGI Ethiopia",
+		"filename": "bgi_ethiopia_mark",
+		"url": "https://www.bgiethiopia.com/",
+		"category": ["Beverage"],
+		"Hint": "Logo Mark"
 	}
 ]
