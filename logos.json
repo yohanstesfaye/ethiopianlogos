@@ -847,5 +847,19 @@
 		"url": "https://www.bgiethiopia.com/",
 		"category": ["Beverage"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Deliver Addis",
+		"filename": "deliver_addis",
+		"url": "https://deliveraddis.com",
+		"category": ["Delivery"],
+		"Hint": ""
+	},
+	{
+		"title": "Deliver Addis",
+		"filename": "deliver_addis_mark",
+		"url": "https://deliveraddis.com",
+		"category": ["Delivery"],
+		"Hint": "Logo Mark"
 	}
 ]
