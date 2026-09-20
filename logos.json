@@ -861,5 +861,12 @@
 		"url": "https://deliveraddis.com",
 		"category": ["Delivery"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Dashen Breweries",
+		"filename": "dashen_breweries_mark",
+		"url": "https://dashenbreweries.com/",
+		"category": ["Beverage"],
+		"Hint": "Logo Mark"
 	}
 ]
