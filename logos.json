@@ -884,14 +884,14 @@
 		"Hint": "Logo Mark"
 	},
 	{
-		"title": "Sewasew Meltimedia",
+		"title": "Sewasew Multimedia",
 		"filename": "sewasew_multimedia",
 		"url": "https://sewasewmusic.com/",
 		"category": ["Entertainment"],
 		"Hint": ""
 	},
 	{
-		"title": "Sewasew Meltimedia",
+		"title": "Sewasew Multimedia",
 		"filename": "sewasew_multimedia_mark",
 		"url": "https://sewasewmusic.com/",
 		"category": ["Entertainment"],
@@ -909,6 +909,20 @@
 		"filename": "zemenay_tech_mark",
 		"url": "https://zemenaytech.com/",
 		"category": ["Coworking Space"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Zoma Beauty Academy",
+		"filename": "zoma_beauty_academy",
+		"url": "https://zomaacademy.com/",
+		"category": ["Academy"],
+		"Hint": ""
+	},
+	{
+		"title": "Zoma Beauty Academy",
+		"filename": "zoma_beauty_academy_mark",
+		"url": "https://zomaacademy.com/",
+		"category": ["Academy"],
 		"Hint": "Logo Mark"
 	}
 ]
