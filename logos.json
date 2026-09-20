@@ -896,5 +896,19 @@
 		"url": "https://sewasewmusic.com/",
 		"category": ["Entertainment"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Zemenay",
+		"filename": "zemenay_tech",
+		"url": "https://zemenaytech.com/",
+		"category": ["Coworking Space"],
+		"Hint": ""
+	},
+	{
+		"title": "Zemenay",
+		"filename": "zemenay_tech_mark",
+		"url": "https://zemenaytech.com/",
+		"category": ["Coworking Space"],
+		"Hint": "Logo Mark"
 	}
 ]
