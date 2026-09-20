@@ -882,5 +882,19 @@
 		"url": "https://foundation.safaricom.et/",
 		"category": ["NGO"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Sewasew Meltimedia",
+		"filename": "sewasew_multimedia",
+		"url": "https://sewasewmusic.com/",
+		"category": ["Entertainment"],
+		"Hint": ""
+	},
+	{
+		"title": "Sewasew Meltimedia",
+		"filename": "sewasew_multimedia_mark",
+		"url": "https://sewasewmusic.com/",
+		"category": ["Entertainment"],
+		"Hint": "Logo Mark"
 	}
 ]
