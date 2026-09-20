@@ -924,5 +924,12 @@
 		"url": "https://zomaacademy.com/",
 		"category": ["Academy"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Alpha IT Solution",
+		"filename": "alpha_it_solution",
+		"url": "https://www.alphaitsolution.com/",
+		"category": ["ICT"],
+		"Hint": ""
 	}
 ]
