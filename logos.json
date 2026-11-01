@@ -1008,5 +1008,19 @@
 		"url": "https://dsgeneralplc.com",
 		"category": ["Logistics"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "East Africa Holding",
+		"filename": "east_africa_holding",
+		"url": "https://www.eastafricanholding.com/",
+		"category": ["Holding"],
+		"Hint": ""
+	},
+	{
+		"title": "East Africa Holding",
+		"filename": "east_africa_holding_mark",
+		"url": "https://www.eastafricanholding.com/",
+		"category": ["Holding"],
+		"Hint": "Logo Mark"
 	}
 ]
