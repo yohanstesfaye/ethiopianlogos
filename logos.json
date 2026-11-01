@@ -1036,5 +1036,20 @@
 		"url": "https://esl.et",
 		"category": ["Shipping", "Logistics"],
 		"Hint": "Logo Mark"
+	},
+
+	{
+		"title": "Global Bank of Ethiopia",
+		"filename": "global_bank_ethiopia",
+		"url": "https://www.globalbankethiopia.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Global Bank of Ethiopia",
+		"filename": "global_bank_ethiopia_mark",
+		"url": "https://www.globalbankethiopia.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
