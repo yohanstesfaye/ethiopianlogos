@@ -1064,5 +1064,19 @@
 		"url": "https://www.kaafimf.com/",
 		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Koket Investment",
+		"filename": "koket_investment",
+		"url": "https://koketinvestment.com/",
+		"category": ["Software", "Construction"],
+		"Hint": ""
+	},
+	{
+		"title": "Koket Investment",
+		"filename": "koket_investment_mark",
+		"url": "https://koketinvestment.com/",
+		"category": ["Software", "Construction"],
+		"Hint": "Logo Mark"
 	}
 ]
