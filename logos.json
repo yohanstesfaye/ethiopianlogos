@@ -1092,5 +1092,12 @@
 		"url": "https://www.nibbanksc.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Suba Software Solutions",
+		"filename": "suba_software_solutions_mark",
+		"url": "https://subasoftware.com/",
+		"category": ["Software"],
+		"Hint": "Logo Mark"
 	}
 ]
