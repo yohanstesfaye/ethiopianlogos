@@ -945,5 +945,19 @@
 		"url": "https://ashewatechnology.com/",
 		"category": ["Software", "Web Host"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Beu Delivery",
+		"filename": "beu_delivery",
+		"url": "https://beudelivery.com/",
+		"category": ["Delivery"],
+		"Hint": ""
+	},
+	{
+		"title": "Beu Delivery",
+		"filename": "beu_delivery_mark",
+		"url": "https://beudelivery.com/",
+		"category": ["Delivery"],
+		"Hint": "Logo Mark"
 	}
 ]
