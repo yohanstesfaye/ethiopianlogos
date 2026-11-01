@@ -1037,7 +1037,6 @@
 		"category": ["Shipping", "Logistics"],
 		"Hint": "Logo Mark"
 	},
-
 	{
 		"title": "Global Bank of Ethiopia",
 		"filename": "global_bank_ethiopia",
@@ -1050,6 +1049,20 @@
 		"filename": "global_bank_ethiopia_mark",
 		"url": "https://www.globalbankethiopia.com/",
 		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Kaafi Micrifinance",
+		"filename": "kaafi_microfinance",
+		"url": "https://www.kaafimf.com/",
+		"category": ["Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Kaafi Micrifinance",
+		"filename": "kaafi_microfinance_mark",
+		"url": "https://www.kaafimf.com/",
+		"category": ["Financial Services"],
 		"Hint": "Logo Mark"
 	}
 ]
