@@ -1127,5 +1127,19 @@
 		"url": "https://tsedeybank.com.et/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Verify.et",
+		"filename": "verify_et",
+		"url": "https://verify.et/",
+		"category": ["Software"],
+		"Hint": ""
+	},
+	{
+		"title": "Verify.et",
+		"filename": "verify_et_mark",
+		"url": "https://verify.et/",
+		"category": ["Software"],
+		"Hint": "Logo Mark"
 	}
 ]
