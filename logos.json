@@ -1022,5 +1022,19 @@
 		"url": "https://www.eastafricanholding.com/",
 		"category": ["Holding"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ethiopian Shipping Logistics",
+		"filename": "eshippingrlogisticsding",
+		"url": "https://esl.et",
+		"category": ["Shipping", "Logistics"],
+		"Hint": ""
+	},
+	{
+		"title": "Ethiopian Shipping Logistics",
+		"filename": "ethiopian_shipping_logistics_mark",
+		"url": "https://esl.et",
+		"category": ["Shipping", "Logistics"],
+		"Hint": "Logo Mark"
 	}
 ]

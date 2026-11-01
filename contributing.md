@@ -115,6 +115,7 @@ not
 * Publishing
 * Real Estate
 * Restaurant
+* Shipping
 * Software
 * Sports
 * Telecommunication
