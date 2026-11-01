@@ -1141,5 +1141,138 @@
 		"url": "https://verify.et/",
 		"category": ["Software"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Academy",
+		"filename": "ovid_academy",
+		"url": "https://ovid-group.com/ovid-academy/",
+		"category": ["Education"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Academy",
+		"filename": "ovid_academy_mark",
+		"url": "https://ovid-group.com/ovid-academy/",
+		"category": ["Education"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Construction",
+		"filename": "ovid_construction",
+		"url": "https://ovid-group.com/ovid-construction/",
+		"category": ["Construction"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Construction",
+		"filename": "ovid_construction_mark",
+		"url": "https://ovid-group.com/ovid-construction/",
+		"category": ["Construction"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Furniture",
+		"filename": "ovid_furniture",
+		"url": "https://ovid-group.com/",
+		"category": ["Manufacturing"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Furniture",
+		"filename": "ovid_furniture_mark",
+		"url": "https://ovid-group.com/",
+		"category": ["Manufacturing"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Global Solutions",
+		"filename": "ovid_global_solutions",
+		"url": "https://ovidglobal.com/",
+		"category": ["Consulting"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Global Solutions",
+		"filename": "ovid_global_solutions_mark",
+		"url": "https://ovidglobal.com/",
+		"category": ["Consulting"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Holding",
+		"filename": "ovid_holding",
+		"url": "https://ovid-group.com/",
+		"category": ["Holding"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Holding",
+		"filename": "ovid_holding_mark",
+		"url": "https://ovid-group.com/",
+		"category": ["Holding"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid It",
+		"filename": "ovid_it",
+		"url": "https://ovid-group.com/ovid-it/",
+		"category": ["ICT"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid It",
+		"filename": "ovid_it_mark",
+		"url": "https://ovid-group.com/ovid-it/",
+		"category": ["ICT"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Kling Consult",
+		"filename": "ovid_kling_consult",
+		"url": "https://ovidkling.com/",
+		"category": ["Consulting"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Polywood",
+		"filename": "ovid_polywood",
+		"url": "https://ovid-group.com/",
+		"category": ["Manufacturing"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Polywood",
+		"filename": "ovid_polywood_mark",
+		"url": "https://ovid-group.com/",
+		"category": ["Manufacturing"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Realestate",
+		"filename": "ovid_realestate",
+		"url": "https://ovid-realestates.com/",
+		"category": ["Real Estate"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Realestate",
+		"filename": "ovid_realestate_mark",
+		"url": "https://ovid-realestates.com/",
+		"category": ["Real Estate"],
+		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Ovid Trade House",
+		"filename": "ovid_trade_house",
+		"url": "https://ovid-group.com/ovid-trade-house/",
+		"category": ["Logistics"],
+		"Hint": ""
+	},
+	{
+		"title": "Ovid Trade House",
+		"filename": "ovid_trade_house_mark",
+		"url": "https://ovid-group.com/ovid-trade-house/",
+		"category": ["Logistics"],
+		"Hint": "Logo Mark"
 	}
 ]
