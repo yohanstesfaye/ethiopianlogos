@@ -931,5 +931,19 @@
 		"url": "https://www.alphaitsolution.com/",
 		"category": ["ICT"],
 		"Hint": ""
+	},
+	{
+		"title": "Ashewa Technology",
+		"filename": "ashewa_technology",
+		"url": "https://ashewatechnology.com/",
+		"category": ["Software", "Web Host"],
+		"Hint": ""
+	},
+	{
+		"title": "Ashewa Technology",
+		"filename": "ashewa_technology_mark",
+		"url": "https://ashewatechnology.com/",
+		"category": ["Software", "Web Host"],
+		"Hint": "Logo Mark"
 	}
 ]
