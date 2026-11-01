@@ -994,5 +994,19 @@
 		"url": "https://demahoperealestate.com/",
 		"category": ["Real Estate"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "DS General PLC",
+		"filename": "ds_general_plc",
+		"url": "https://dsgeneralplc.com",
+		"category": ["Logistics"],
+		"Hint": ""
+	},
+	{
+		"title": "DS General PLC",
+		"filename": "ds_general_plc_mark",
+		"url": "https://dsgeneralplc.com",
+		"category": ["Logistics"],
+		"Hint": "Logo Mark"
 	}
 ]
