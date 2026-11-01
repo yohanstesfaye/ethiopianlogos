@@ -93,6 +93,7 @@ not
 * Government
 * Government Agency
 * Health
+* Holdings
 * Hospitality
 * Hotel
 * ICT
@@ -100,6 +101,7 @@ not
 * Investment Bank
 * ISP
 * Local Search
+* Logistics
 * Marketplace
 * Media
 * Military
