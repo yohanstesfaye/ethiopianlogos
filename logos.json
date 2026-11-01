@@ -973,5 +973,19 @@
 		"url": "https://dashenbanksc.com/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Post Gebeya",
+		"filename": "post_gebeya",
+		"url": "https://postgebeya.ethio.post/",
+		"category": ["Ecommerce", "Marketplace"],
+		"Hint": ""
+	},
+	{
+		"title": "Post Gebeya",
+		"filename": "post_gebeya_mark",
+		"url": "https://postgebeya.ethio.post/",
+		"category": ["Ecommerce", "Marketplace"],
+		"Hint": "Logo Mark"
 	}
 ]
