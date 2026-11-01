@@ -509,8 +509,15 @@
 		"title": "Ethio Post",
 		"filename": "ethio_post",
 		"url": "https://www.ethio.post",
-		"category": ["Postal Service", "Marketplace"],
+		"category": ["Postal Service"],
 		"Hint": ""
+	},
+	{
+		"title": "Ethio Post",
+		"filename": "ethio_post_mark",
+		"url": "https://www.ethio.post",
+		"category": ["Postal Service"],
+		"Hint": "Logo Mark"
 	},
 	{
 		"title": "Anbesa Bank",
