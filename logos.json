@@ -987,5 +987,12 @@
 		"url": "https://postgebeya.ethio.post/",
 		"category": ["Ecommerce", "Marketplace"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Dema Hope Realestate",
+		"filename": "dema_hope_realestate_mark",
+		"url": "https://demahoperealestate.com/",
+		"category": ["Real Estate"],
+		"Hint": "Logo Mark"
 	}
 ]
