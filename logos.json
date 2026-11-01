@@ -959,5 +959,12 @@
 		"url": "https://beudelivery.com/",
 		"category": ["Delivery"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Dashen Bank",
+		"filename": "dashen_bank_mark",
+		"url": "https://dashenbanksc.com/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
