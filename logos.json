@@ -1113,5 +1113,19 @@
 		"url": "https://tsehaybank.com.et/",
 		"category": ["Banking", "Financial Services"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "Tsedey Bank",
+		"filename": "tsedey_bank",
+		"url": "https://tsedeybank.com.et/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": ""
+	},
+	{
+		"title": "Tsedey Bank",
+		"filename": "tsedey_bank_mark",
+		"url": "https://tsedeybank.com.et/",
+		"category": ["Banking", "Financial Services"],
+		"Hint": "Logo Mark"
 	}
 ]
