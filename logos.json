@@ -255,7 +255,7 @@
 	},
 	{
 		"title": "TeleBirr",
-		"filename": "tele_birr",
+		"filename": "telebirr_mark",
 		"url": "https://www.telebirr.com",
 		"category": ["Financial Services"],
 		"Hint": ""
@@ -1274,5 +1274,12 @@
 		"url": "https://ovid-group.com/ovid-trade-house/",
 		"category": ["Logistics"],
 		"Hint": "Logo Mark"
+	},
+	{
+		"title": "TeleBirr",
+		"filename": "telebirr",
+		"url": "https://www.telebirr.com",
+		"category": ["Financial Services"],
+		"Hint": ""
 	}
 ]
